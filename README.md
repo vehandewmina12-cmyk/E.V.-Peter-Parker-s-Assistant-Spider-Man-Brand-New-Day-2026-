@@ -156,19 +156,43 @@ Note:- This Ai Assistant Was Made On A Mac,So It Functions On Macs... If You Are
 ```bash
 cd YOUR_PROJECT_FOLDER
 ```
-
-3. Install the required dependencies.
-
-4. Configure `config.json` with your preferred settings and AI provider.
-
-5. Grant the necessary macOS permissions.
-
-6. Start E.V.:
+3.Run These Commands
 
 ```bash
-npm start
+python3 -m venv venv
+```
+```bash
+source venv/bin/activate
 ```
 
+```bash
+python server.py
+```
+
+4. Install the required dependencies.
+
+5. Configure `config.json` with your preferred settings and AI provider.
+
+6. Grant the necessary macOS permissions.
+
+7. Start E.V.
+
+Run These Commands
+
+```bash
+python3 -m venv venv
+```
+```bash
+source venv/bin/activate
+```
+
+```bash
+python server.py
+```
+
+8. Done!
+
+   
 ---
 
 ## 🔐 Privacy & Security
