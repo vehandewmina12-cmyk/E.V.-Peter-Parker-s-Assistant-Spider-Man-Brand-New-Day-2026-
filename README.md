@@ -149,12 +149,8 @@ Note:- This Ai Assistant Was Made On A Mac,So It Functions On Macs... If You Are
 
 ## 🚀 Installation
 
-1. Clone the repository:
-
-```bash
-git clone YOUR_REPOSITORY_URL
-```
-
+1. Download Zip File
+  
 2. Enter the project folder:
 
 ```bash
